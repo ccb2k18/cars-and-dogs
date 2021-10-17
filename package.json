@@ -1,0 +1,24 @@
+{
+  "name": "cars-and-dogs",
+  "version": "1.0.0",
+  "description": "assignment for web stack",
+  "main": "index.js",
+  "scripts": {
+    "start": "node main.js",
+    "dev": "nodemon main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ccb2k18/cars-and-dogs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ccb2k18/cars-and-dogs/issues"
+  },
+  "homepage": "https://github.com/ccb2k18/cars-and-dogs#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.13"
+  }
+}

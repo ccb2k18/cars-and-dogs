@@ -1,0 +1,23 @@
+body {
+    margin: 0;
+}
+
+.form-container {
+    display: grid;
+    width: max(33%, 300px);
+    grid-auto-flow: row;
+    justify-items: center;
+    align-items: center;
+    border: 3px solid black;
+    border-radius: 1em;
+    margin: 4em auto;
+    background-color: white;
+}
+
+.form-container > * {
+    margin: 1em;
+}
+
+.new-car-form > * {
+    margin: 1em;
+}
